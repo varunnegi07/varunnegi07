@@ -18,8 +18,8 @@
 - 💡 Passionate about **Full-Stack Web Development** and **Data Science**
 - 🌱 Always learning new technologies and best practices
 - 💻 Freelance developer on **Upwork** & **Fiverr**
-- 📧 **Email:** varunnegi231@gmail.com
-- 🌐 **Portfolio:** https://varunnegi.com
+- 📧 **Email:** dev.varunneg@gmail.com
+- 🌐 **Portfolio:** [https://varunnegi.com](https://webshop-kappa.vercel.app/)
 - 📍 **Location:** New Delhi, India
 
 ---
