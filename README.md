@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varunnegi07&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/varunnegi07?label=Followers&style=social)](https://github.com/varunnegi07)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/varun-negi](https://www.linkedin.com/in/varun-negi-065239354/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/varun-negi-065239354/])
 
 </div>
 
@@ -17,7 +17,7 @@
 - 💡 Passionate about **Full-Stack Web Development** and **Data Science**
 - 🌱 Always learning new technologies and best practices
 - 💻 Freelance developer on **Upwork** & **Fiverr**
-- 📧 **Email:** dev.varunneg@gmail.com
+- 📧 **Email:** varunnegi231@gmail.com
 - 🌐 **Portfolio:** [https://varunnegi.com](https://webshop-kappa.vercel.app/)
 - 📍 **Location:** New Delhi, India
 
