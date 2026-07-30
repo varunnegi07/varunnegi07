@@ -56,15 +56,7 @@
 
 </div>
 
----
 
-## 🎯 Featured Projects
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|-----------|-------|
-| [webshop](https://github.com/varunnegi07/webshop) | E-commerce web application | HTML, CSS, JavaScript | ![Stars](https://img.shields.io/github/stars/varunnegi07/webshop?style=flat) |
-
----
 
 ## 🌟 Highlights
 
